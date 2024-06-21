@@ -56,6 +56,11 @@ def select_priority():
             return priority
         else:
             print("Invalid priority. Please enter 'high' or 'low'.")
+def create_summary_file(tasks_list):
+    with open('summary.txt', 'w') as file:
+        for task in tasks_list:
+            file.write(f"{task['task']}, {task['category']}, {task['priority']}\n")
+    print('Summary file has been created!')
 
 def switch_case(option, tasks_list):
     if option == '1':
