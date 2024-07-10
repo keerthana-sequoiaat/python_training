@@ -1,0 +1,402 @@
+<class>
+    <student>
+        <id>001</id>
+        <name>John Doe</name>
+        <age>20</age>
+        <gender>Male</gender>
+        <address>
+            <street>123 Main Street</street>
+            <city>Anytown</city>
+            <state>CA</state>
+            <zipcode>12345</zipcode>
+        </address>
+        <contact>
+            <phone>555-123-4567</phone>
+            <email>john.doe@example.com</email>
+        </contact>
+        <course>
+            <name>Computer Science</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>002</id>
+        <name>Jane Smith</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <address>
+            <street>456 Oak Avenue</street>
+            <city>Smallville</city>
+            <state>NY</state>
+            <zipcode>54321</zipcode>
+        </address>
+        <contact>
+            <phone>555-987-6543</phone>
+            <email>jane.smith@example.com</email>
+        </contact>
+        <course>
+            <name>Electrical Engineering</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>003</id>
+        <name>Michael Johnson</name>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>
+            <street>789 Maple Avenue</street>
+            <city>Springfield</city>
+            <state>IL</state>
+            <zipcode>67890</zipcode>
+        </address>
+        <contact>
+            <phone>555-555-5555</phone>
+            <email>michael.johnson@example.com</email>
+        </contact>
+        <course>
+            <name>Business Administration</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>004</id>
+        <name>Emily Davis</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <address>
+            <street>321 Elm Street</street>
+            <city>Riverside</city>
+            <state>CA</state>
+            <zipcode>54321</zipcode>
+        </address>
+        <contact>
+            <phone>555-333-4444</phone>
+            <email>emily.davis@example.com</email>
+        </contact>
+        <course>
+            <name>Psychology</name>
+            <year>2024</year>
+        </course>
+    </student>
+    <student>
+        <id>005</id>
+        <name>Andrew Wilson</name>
+        <age>20</age>
+        <gender>Male</gender>
+        <address>
+            <street>567 Pine Street</street>
+            <city>Lakeside</city>
+            <state>WA</state>
+            <zipcode>98001</zipcode>
+        </address>
+        <contact>
+            <phone>555-777-8888</phone>
+            <email>andrew.wilson@example.com</email>
+        </contact>
+        <course>
+            <name>Environmental Science</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>006</id>
+        <name>Sarah Martinez</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <address>
+            <street>890 Oak Street</street>
+            <city>Sunnyvale</city>
+            <state>CA</state>
+            <zipcode>94086</zipcode>
+        </address>
+        <contact>
+            <phone>555-111-2222</phone>
+            <email>sarah.martinez@example.com</email>
+        </contact>
+        <course>
+            <name>Chemistry</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>007</id>
+        <name>David Brown</name>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>
+            <street>456 Pine Avenue</street>
+            <city>Springfield</city>
+            <state>IL</state>
+            <zipcode>62701</zipcode>
+        </address>
+        <contact>
+            <phone>555-222-3333</phone>
+            <email>david.brown@example.com</email>
+        </contact>
+        <course>
+            <name>History</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>008</id>
+        <name>Emma Taylor</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <address>
+            <street>789 Maple Street</street>
+            <city>Greenville</city>
+            <state>SC</state>
+            <zipcode>29601</zipcode>
+        </address>
+        <contact>
+            <phone>555-444-5555</phone>
+            <email>emma.taylor@example.com</email>
+        </contact>
+        <course>
+            <name>English Literature</name>
+            <year>2024</year>
+        </course>
+    </student>
+    <student>
+        <id>009</id>
+        <name>James Lee</name>
+        <age>20</age>
+        <gender>Male</gender>
+        <address>
+            <street>123 Cedar Lane</street>
+            <city>Portland</city>
+            <state>OR</state>
+            <zipcode>97201</zipcode>
+        </address>
+        <contact>
+            <phone>555-666-7777</phone>
+            <email>james.lee@example.com</email>
+        </contact>
+        <course>
+            <name>Mathematics</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>010</id>
+        <name>Olivia Hernandez</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <address>
+            <street>890 Elm Avenue</street>
+            <city>Boston</city>
+            <state>MA</state>
+            <zipcode>02101</zipcode>
+        </address>
+        <contact>
+            <phone>555-888-9999</phone>
+            <email>olivia.hernandez@example.com</email>
+        </contact>
+        <course>
+            <name>Physics</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>011</id>
+        <name>William Clark</name>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>
+            <street>345 Oak Lane</street>
+            <city>Seattle</city>
+            <state>WA</state>
+            <zipcode>98101</zipcode>
+        </address>
+        <contact>
+            <phone>555-111-3333</phone>
+            <email>william.clark@example.com</email>
+        </contact>
+        <course>
+            <name>Biology</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>012</id>
+        <name>Mia Anderson</name>
+        <age>20</age>
+        <gender>Female</gender>
+        <address>
+            <street>678 Pine Avenue</street>
+            <city>San Francisco</city>
+            <state>CA</state>
+            <zipcode>94102</zipcode>
+        </address>
+        <contact>
+            <phone>555-222-4444</phone>
+            <email>mia.anderson@example.com</email>
+        </contact>
+        <course>
+            <name>Art History</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>013</id>
+        <name>Ethan Garcia</name>
+        <age>21</age>
+        <gender>Male</gender>
+        <address>
+            <street>910 Maple Street</street>
+            <city>Dallas</city>
+            <state>TX</state>
+            <zipcode>75201</zipcode>
+        </address>
+        <contact>
+            <phone>555-777-3333</phone>
+            <email>ethan.garcia@example.com</email>
+        </contact>
+        <course>
+            <name>Political Science</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>014</id>
+        <name>Isabella Martinez</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <address>
+            <street>123 Cedar Avenue</street>
+            <city>Los Angeles</city>
+            <state>CA</state>
+            <zipcode>90001</zipcode>
+        </address>
+        <contact>
+            <phone>555-444-3333</phone>
+            <email>isabella.martinez@example.com</email>
+        </contact>
+        <course>
+            <name>Chemical Engineering</name>
+            <year>2024</year>
+        </course>
+    </student>
+    <student>
+        <id>015</id>
+        <name>Dylan Nguyen</name>
+        <age>22</age>
+        <gender>Male</gender>
+        <address>
+            <street>456 Elm Lane</street>
+            <city>Houston</city>
+            <state>TX</state>
+            <zipcode>77001</zipcode>
+        </address>
+        <contact>
+            <phone>555-333-2222</phone>
+            <email>dylan.nguyen@example.com</email>
+        </contact>
+        <course>
+            <name>Economics</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>016</id>
+        <name>Ava Lopez</name>
+        <age>20</age>
+        <gender>Female</gender>
+        <address>
+            <street>789 Pine Street</street>
+            <city>San Diego</city>
+            <state>CA</state>
+            <zipcode>92101</zipcode>
+        </address>
+        <contact>
+            <phone>555-888-2222</phone>
+            <email>ava.lopez@example.com</email>
+        </contact>
+        <course>
+            <name>Communications</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>017</id>
+        <name>Logan Wilson</name>
+        <age>21</age>
+        <gender>Male</gender>
+        <address>
+            <street>890 Oak Lane</street>
+            <city>Phoenix</city>
+            <state>AZ</state>
+            <zipcode>85001</zipcode>
+        </address>
+        <contact>
+            <phone>555-666-1111</phone>
+            <email>logan.wilson@example.com</email>
+        </contact>
+        <course>
+            <name>Music</name>
+            <year>2022</year>
+        </course>
+    </student>
+    <student>
+        <id>018</id>
+        <name>Grace Moore</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <address>
+            <street>345 Cedar Street</street>
+            <city>Chicago</city>
+            <state>IL</state>
+            <zipcode>60601</zipcode>
+        </address>
+        <contact>
+            <phone>555-111-7777</phone>
+            <email>grace.moore@example.com</email>
+        </contact>
+        <course>
+            <name>Nursing</name>
+            <year>2024</year>
+        </course>
+    </student>
+    <student>
+        <id>019</id>
+        <name>Nathan King</name>
+        <age>20</age>
+        <gender>Male</gender>
+        <address>
+            <street>567 Elm Avenue</street>
+            <city>Miami</city>
+            <state>FL</state>
+            <zipcode>33101</zipcode>
+        </address>
+        <contact>
+            <phone>555-222-9999</phone>
+            <email>nathan.king@example.com</email>
+        </contact>
+        <course>
+            <name>Graphic Design</name>
+            <year>2023</year>
+        </course>
+    </student>
+    <student>
+        <id>020</id>
+        <name>Victoria Brown</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <address>
+            <street>678 Maple Street</street>
+            <city>Atlanta</city>
+            <state>GA</state>
+            <zipcode>30301</zipcode>
+        </address>
+        <contact>
+            <phone>555-999-8888</phone>
+            <email>victoria.brown@example.com</email>
+        </contact>
+        <course>
+            <name>Political Science</name>
+            <year>2022</year>
+        </course>
+    </student>
+</class>
